@@ -1,0 +1,1 @@
+set FYNE_FONT=C:\Windows\Fonts\meiryo.ttc
